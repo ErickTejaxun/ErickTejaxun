@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErickTejaxun
 - 👀 I’m interested in compilers, cybersecuirty and HPC. 
-- 🌱 I’m currently learning LLVM and how implement parallel computing in a new programing language. 
+- 🌱 I’m currently working in LLVM/MLIR/Polly/TVM and how implement parallel computing in a new programing language. 
 
 
 <!---
